@@ -24,3 +24,7 @@
  - git config --local
 
 优先级从低到高
+
+## 删除
+
+git rm 等价于 rm + git add
