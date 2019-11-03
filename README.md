@@ -35,3 +35,6 @@ git branch 显示分支
 git checkout xx 切换分支
 
 git checkout - 
+
+git branch -d xx 删除分支
+git branch -D xx 删除分支(强制)
