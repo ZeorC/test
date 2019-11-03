@@ -31,6 +31,7 @@ git rm 等价于 rm + git add
 
 ## 分支
 git branch 显示分支
+git branch xxx 创建分支
 
 git checkout xx 切换分支
 
@@ -38,3 +39,10 @@ git checkout -
 
 git branch -d xx 删除分支
 git branch -D xx 删除分支(强制)
+
+git checkout -b new2 等同于
+- git branch xxx
+- git checkout xxx
+
+## 分支合并
+git merge
