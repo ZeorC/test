@@ -31,3 +31,5 @@ git rm 等价于 rm + git add
 
 ## 分支
 git branch 显示分支
+
+git checkout xx 切换分支
